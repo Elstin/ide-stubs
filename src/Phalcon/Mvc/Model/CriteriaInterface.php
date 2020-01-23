@@ -85,6 +85,15 @@ interface CriteriaInterface
     public function distinct($distinct): CriteriaInterface;
 
     /**
+     * Sets the columns to be queried
+     *
+     * @param string|array $columns
+     * @return CriteriaInterface
+     */
+    public function columns($columns): CriteriaInterface;
+
+
+    /**
      * Executes a find using the parameters built with the criteria
      *
      * @return ResultsetInterface
