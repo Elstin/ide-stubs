@@ -27,8 +27,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/Elstin/ide-stubs/issues",
-        "source": "https://github.com/Elstin/ide-stubs",
+        "issues": "https://github.com/elstin/ide-stubs/issues",
+        "source": "https://github.com/elstin/ide-stubs",
         "forum": "https://forum.phalconphp.com/"
     },
     "require": {
