@@ -28,8 +28,7 @@
     ],
     "support": {
         "issues": "https://github.com/elstin/ide-stubs/issues",
-        "source": "https://github.com/elstin/ide-stubs",
-        "forum": "https://forum.phalconphp.com/"
+        "source": "https://github.com/elstin/ide-stubs"
     },
     "require": {
         "php": ">=7.3.0"
